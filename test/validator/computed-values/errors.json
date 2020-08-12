@@ -1,8 +1,0 @@
-[{
-	"message": "A computed value must depend on at least one property",
-	"pos": 49,
-	"loc": {
-		"line": 4,
-		"column": 8
-	}
-}]
